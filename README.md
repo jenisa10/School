@@ -1,10 +1,18 @@
 # School
 General school project descriptions.
 
-## Please email me at jenisa@gmail.com to see my past school projects.
+## These projects are protected by a confidentiality contract to avoid plagerism of future students. To see the code, please contact me jenisa@gmail.com and I will share the code privately. The project requirements are attached.
 
-### CPE 101 - Introduction to Computing
+### CPE 101 - Introduction to Computing (Python)
 Basic principles of algorithmic problem solving and programming using methods of top-down design, stepwiserefinement and procedural abstraction. Basic control structures, data types, and input/output. Introduction to the software development process: design, implementation, testing and documentation. The syntax and semantics of a modern programming language. 
+
+1. Moonlander
+  - Description
+    - Essential topics
+
+2. Calcudoku
+  - Description
+    - Essential topics
 
 ### CPE 202 - Data Structures
 Introduction to data structures and analysis of algorithms. Abstract datatypes. Specification and implementation of advanced data structures. Theoretical and empirical analysis of recursive and iterative algorithms. Software performance evaluation and testing techniques. 
